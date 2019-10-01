@@ -2,7 +2,9 @@
 Subdirectory  -Install
 
 git clone https://github.com/ve3wwg/stm32f103c8t6.git
+
 cd ~/stm32f103f8t6
+
 git clone https://github.com/libopencm3/libopencm3.git
 
 #FreeRTOS
